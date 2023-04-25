@@ -36,10 +36,10 @@ Clone o repositório
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/deyvidcn/aluraflix-backend.git
+$ git clone https://github.com/deyvidcn/myflix-backend.git
 
 # Entre no repositório
-$ cd aluraflix-backend
+$ cd myflix-backend
 
 # Instalar as dependências
 $ composer install
